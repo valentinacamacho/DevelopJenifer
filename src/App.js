@@ -1,7 +1,9 @@
+import Sidebar from "./Layout/Sidebar";
+
 function App() {
   return (
     <div className="App">
-      <h2>Bienvenidos</h2>
+   <Sidebar/>
     </div>
   );
 }
